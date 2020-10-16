@@ -1,7 +1,7 @@
-<h3 align="center">Welcome to My Profile</h3>
+<h3 align="center">{./SHINIGAMI}</h3>
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
+ <img width=200px height=200px src="http://wallpoper.com/images/00/01/32/19/logo-shinigami-subt_00014095_thumb.jpg" alt="SHINIGAMI"></a>
 </p>
 
 ---

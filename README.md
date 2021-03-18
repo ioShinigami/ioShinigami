@@ -1,7 +1,7 @@
 <h3 align="center">{./SHINIGAMI}</h3>
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="http://wallpoper.com/images/00/01/32/19/logo-shinigami-subt_00014095_thumb.jpg" alt="SHINIGAMI"></a>
+ <img width=200px height=200px src="https://discord.com/channels/821973712399892491/821973712839639052/821973747879247872 alt="SHINIGAMI"></a>
 </p>
 
 ---

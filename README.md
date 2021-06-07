@@ -4,6 +4,8 @@
  <img width=200px height=200px src="https://cdn.discordapp.com/attachments/821973712839639052/821973747765608508/hiclipart.com.png" alt="SHINIGAMI"></a>
 </p>
 
+ ![Metrics](https://metrics.lecoq.io/ioShinigami?template=terminal&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&projects=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FLos_Angeles)
+
 ---
 
 <p align="center"> 🤖 Bugs are just unreported features... 🤖
@@ -27,9 +29,6 @@
 <p align="center">
   <a href="" rel="noopener">
  <img  src="https://raw.githubusercontent.com/ioShinigami/github-stats/ca31145536262e91905382603fd5ba4a456dee23/generated/languages.svg" alt="Languages"></a>
-</p>
-<p align="center">
- ![Metrics](https://metrics.lecoq.io/ioShinigami?template=terminal&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&projects=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FLos_Angeles)
 </p>
 
 ## 🎈 FAQ <a name = "faq"></a>

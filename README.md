@@ -1,4 +1,4 @@
-<h3 align="center">{./SHINIGAMI}</h3>
+<h3 align="center">{ SHINIGAMI }</h3>
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://cdn.discordapp.com/attachments/821973712839639052/821973747765608508/hiclipart.com.png" alt="SHINIGAMI"></a>
